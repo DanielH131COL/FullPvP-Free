@@ -1,0 +1,4 @@
+name: Asd
+version: '1.0'
+main: coquita.proxy.asd.Asd
+api-version: '1.20'
